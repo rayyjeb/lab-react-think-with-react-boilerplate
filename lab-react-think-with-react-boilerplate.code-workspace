@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../think_with-_react_part2"
+		},
+		{
+			"path": "../lab-react-jsx-boilerplate"
+		},
+		{
+			"path": "../think_with-_react_part3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "think_with-_react_part2"
+	}
+}
